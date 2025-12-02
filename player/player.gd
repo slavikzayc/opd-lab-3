@@ -1,11 +1,7 @@
 extends CharacterBody2D
 
 const WALK_FORCE = 600
-<<<<<<< HEAD
-const WALK_MAX_SPEED = 300
-=======
-const WALK_MAX_SPEED = 300
->>>>>>> 8ae43fb (reduced MAX_WALK_SPEED)
+const WALK_MAX_SPEED = 100
 const STOP_FORCE = 1300
 const JUMP_SPEED = 200
 
